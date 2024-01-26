@@ -1,6 +1,3 @@
-Certainly! Below is a formatted version of the information you provided for your project's README file on GitHub:
-
----
 
 # Signature Verification System Using CNN
 
