@@ -1,3 +1,4 @@
+![image](https://github.com/anupdhoble/6thSemProject_SignatureVerification/assets/83175840/0f5f491e-b98c-4d11-95a4-5d346918c0da)
 
 # Signature Verification System Using CNN
 
@@ -44,6 +45,8 @@ This project aims to develop a signature verification system using transfer lear
   - `views.py`: Contains views for handling HTTP requests and responses.
   - `urls.py`: Defines URL patterns for different endpoints.
   - `settings.py`: Configuration settings for the Django project.
+  - ![image](https://github.com/anupdhoble/6thSemProject_SignatureVerification/assets/83175840/0261573a-90a5-4732-a872-2691f18a6098)
+
   
 - **Frontend (React.js)**
   - `components/`: Contains React components for various UI elements.
@@ -88,6 +91,12 @@ The signature verification model is trained using transfer learning, where the p
 
 ## Deployment
 The trained model is deployed using Django, which serves as the backend for the web application. React.js is used for frontend development to provide an interactive user interface. Images are stored in a SQLite database for future training and reference.
+![image](https://github.com/anupdhoble/6thSemProject_SignatureVerification/assets/83175840/c2df184a-13b8-4d32-9883-c432492a950a)
+![image](https://github.com/anupdhoble/6thSemProject_SignatureVerification/assets/83175840/90372802-ca01-47e7-8e4c-650d1af25292)
+
+![image](https://github.com/anupdhoble/6thSemProject_SignatureVerification/assets/83175840/834999f2-7b9e-4159-a35d-ca5dd012c7a2)
+![image](https://github.com/anupdhoble/6thSemProject_SignatureVerification/assets/83175840/a4781fb7-a69f-40f9-b925-d17de3c1c535)
+
 
 ## Future Improvements
 - Implement user authentication for secure access to the application.
@@ -95,7 +104,7 @@ The trained model is deployed using Django, which serves as the backend for the 
 - Explore advanced deep learning techniques for improved signature verification accuracy.
 
 ## Contributors
-- [Your Name](https://github.com/your-username)
+- [Anup Dhoble](https://github.com/anupdhoble)
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
