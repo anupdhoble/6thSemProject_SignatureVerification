@@ -15,6 +15,10 @@
 - **Back End:** MySQL Database
 - **Back End Language:** Python
 - **Framework:** Django
+  
+## Hardware used for CNN Model Training
+- **GPU used for training:** NVIDIA T4 X2 (15+15 GB)
+- **Plateform:** Kaggle
 
 ## Brief Description
 
