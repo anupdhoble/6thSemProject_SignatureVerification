@@ -1,7 +1,7 @@
 ![image](https://github.com/anupdhoble/6thSemProject_SignatureVerification/assets/83175840/0f5f491e-b98c-4d11-95a4-5d346918c0da)
 
 # Signature Verification System Using CNN
-
+Final PPT/Report:- https://drive.google.com/drive/folders/1xApvlWW8zb1vfAuTEqGFJB0UpGiqti_1?usp=sharing
 ## Project Overview
 
 - **Project Title:** Signature Verification System Using CNN
