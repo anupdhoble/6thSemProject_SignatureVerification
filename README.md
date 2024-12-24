@@ -24,8 +24,7 @@ Final PPT/Report:- https://drive.google.com/drive/folders/1xApvlWW8zb1vfAuTEqGFJ
 
 Every individual possesses a unique signature, crucial for personal identification and verification of legal documents. The process of verifying signatures traditionally relied on manual comparison, which is prone to human error and ineffective against modern forgery techniques.
 
-The Signature Verification System Using CNN offers an efficient solution to authenticate handwritten signatures, reducing the risk of forgery and falsification. The system requires users to log in with basic information and submit two images: the original signature and the comparison signature. The system then processes these images and presents the verification results to the user.
-
+The Signature Verification System Using CNN offers an efficient solution to authenticate handwritten signatures, reducing the risk of forgery and falsification. 
 To classify signatures, the project implements a Convolutional Neural Network (CNN) model. This model is trained on sample signatures, enabling accurate comparison between the original and submitted signatures.
 
 ## Problem Statement
